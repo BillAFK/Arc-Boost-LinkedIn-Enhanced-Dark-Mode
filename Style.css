@@ -1,0 +1,286 @@
+/* Dark mode style changes */
+.artdeco-card, .artdeco-table, .artdeco-table--striped{
+  box-shadow: var(--elevation-lined)!important;
+  overflow: hidden;
+}
+.msg-s-message-list__new-message-button{
+  box-shadow: none !important;
+}
+input{
+  background: hsla(208, 13%, 26%, 0.35) !important;
+}
+
+#global-nav-typeahead > input{
+  border-radius: var(--corner-radius-medium) !important;
+}
+.comments-comment-item-content-body, .comments-highlighted-comment-item-content-body, .comments-reply-item-content-body, .comments-post-meta__profile-info-wrapper{
+  background: none !important;
+}
+.comments-post-meta__name-text{
+  font-size: 1.5rem !important;
+  font-weight: 600 !important;
+}
+.t-black--light{
+  color: #ddd !important;
+  font-weight: 300 !important;
+}
+#ember1092 > div.social-details-first-prompt-block > div{
+  background: #1d2226 !important;
+}
+#ember25 > div.scaffold-layout.scaffold-layout--breakpoint-xl.scaffold-layout--sidebar-main-aside.scaffold-layout--reflow > div > div > div > div > div > div > div > a:nth-child(5) > div{
+  color: var(--color-text-hover);
+}
+#ember25 > div.scaffold-layout.scaffold-layout--breakpoint-xl.scaffold-layout--sidebar-main-aside.scaffold-layout--reflow > div > div > div > div > div > div > div > a:nth-child(5) > div:hover{
+  color: var(--color-text-active);
+}
+.feed-shared-update-v2__update-content-wrapper{
+  margin: 1.6rem !important;
+}
+.mb2{ 
+  margin-bottom:16px !important ;
+}
+.ph3{ 
+  padding-left: 16px !important;
+  padding-right: 16px !important;
+
+}
+.ph4{
+  padding-left: 24px !important;
+  padding-right: 24px !important;
+}
+.artdeco-list{
+  padding-left: 24px !important;
+  padding-right: 24px !important;
+}
+
+.pv2{ 
+  padding-top: 16px !important;
+  padding-bottom:24px !important;
+}
+  .jobs-home-recent-searches__list--collapsed{
+    max-height: 221px !important;
+  }
+  #jobs-home-vertical-list__entity-list{
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+  }
+  .jobs-home-recent-searches__list--collapsed{
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+  }
+  #ember117 > ul{
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+  }
+  #ember117 > ul > li{
+    padding-top: 16px !important;
+    padding-bottom: px !important;
+  }
+#ember11 > span > span.notification-badge__no-count{
+  display: none !important;
+  
+}
+#main > div:nth-child(1) > div.share-box-feed-entry__closed-share-box.artdeco-card{
+  border: none !important;
+}
+.update-components-mini-update-v2{
+  background-color: rgba(29, 34, 37, 0.9) !important;
+  background: rgba(29, 34, 37, 0.9) !important;
+}
+#ember386 > div > div.update-components-mini-update-v2.feed-shared-update-v2__update-content-wrapper.artdeco-card{
+  background-color: rgba(29, 34, 37, 0.9) !important;
+  background: rgba(29, 34, 37, 0.9) !important;
+}
+#ember303 > div > div > a{
+  background-color: #1d2226 !important;
+}
+#ember21 > div.scaffold-layout.scaffold-layout--breakpoint-xl.scaffold-layout--sidebar-main-aside.scaffold-layout--reflow > div > div > div > div.feed-identity-module.artdeco-card.overflow-hidden.mb2 > a.app-aware-link.link-without-visited-state.feed-identity-module__anchored-widget.feed-identity-module__anchored-widget--premium-upsell.t-12.t-black.t-bold.link-without-hover-state.text-align-left{
+  display: none !important;
+}
+.update-components-showcase__subtitle, .update-components-showcase__title{
+color: #1d2226 !important;
+}  
+#ember23 > div.scaffold-layout.scaffold-layout--breakpoint-xl.scaffold-layout--sidebar-main-aside.scaffold-layout--reflow > div > div > div > div.feed-identity-module.artdeco-card.overflow-hidden.mb2{
+  background-color: hsla(208, 13%, 26%, 0.25) !important;
+ 
+}
+  #ember22 > div.scaffold-layout.scaffold-layout--breakpoint-xl.scaffold-layout--sidebar-main-aside.scaffold-layout--reflow > div > div > div > div.scaffold-layout__sticky.scaffold-layout__sticky--is-active.scaffold-layout__sticky--md > div > div{
+    background-color: hsla(208, 13%, 26%, 0.35) !important;
+    backdrop-filter: blur(3px) !important;
+  }
+.scaffold-layout--reflow .artdeco-card{
+  background-color: hsla(208, 13%, 26%, 0.35) !important;
+}
+.pv-open-to-carousel-card--enhanced{
+  background-color: #1d2226 !important;
+}
+#ember50 > div > a > p.link-without-visited-state.text-heading-small.hoverable-link-text{
+  padding-top: 8px !important;
+
+}
+.Elevation-4dp, .Elevation-6dp, .ui-elevation--raised{
+  box-shadow: none !important;
+}
+#main > div:nth-child(3) > div > div.scaffold-finite-scroll__content > div:nth-child(1) > div > div.feed-new-update-pill > div > button{
+  box-shadow: none !important;
+}
+#ember2176{
+  color: #1d2226 !important;
+}
+#main > div > section.scaffold-layout__detail.overflow-x-hidden.jobs-search__job-details > div > div.job-view-layout.jobs-details > div:nth-child(1) > div > div:nth-child(1) > div > div.jobs-unified-top-card__sticky-header{
+  background-color: hsla(207, 13%, 13%, 0.9) !important;
+  backdrop-filter: blur(2px) !important;
+}
+#global-nav{
+  backdrop-filter: blur(2px) !important;
+}
+.social-details-social-counts__social-proof-text{
+  background-color: rgb(35, 45, 49) !important;
+}
+
+#ember34 > div > div.feed-shared-update-v2__description-wrapper > div > button{
+  background-color: rgb(35, 45, 49) !important;
+}
+.feed-shared-inline-show-more-text .feed-shared-inline-show-more-text__see-more-less-toggle{
+  background-color: rgb(35, 45, 49) !important;
+}
+:root {
+  --color-background-canvas-tint:hsla(207, 13%, 13%, 0.9) !important;
+  --color-background-container: hsla(207, 13%, 13%, 0.9) !important;
+  --color-text-shift-on-dark-flip: #1d2226 !important;
+  --color-background-brand-accent-3:#f8f8f8 !important;
+  --color-background-brand-accent-4: #2c2c2c !important;
+  --color-checked: #70b5f9 !important;
+  --messenger-color-background-input-message: #222 !important;
+  --messenger-color-background-input-message-active: #1d2226 !important;
+  --color-signal-positive: #70b5f9 !important;
+  --blue-70: #70b5f9 !important;
+  --color-brand: #70b5f9 !important;
+  --color-brand-active:#70b5f9 !important;
+  --color-text-disabled: #a9a9a9 !important;
+  --color-background-canvas: #1d2226 !important; 
+  --color-background-scrim: hsla(207, 13%, 13%, 0.5)!important;
+  --color-text: #eee !important;
+  --color-text-hover: #70b5f9 !important;
+  --color-text-active: #eee !important;
+  --color-signal-neutral:#70b5f9 !important;
+  --color-signal-neutral-active: #70b5f9 !important;
+  --color-signal-neutral-on-dark: #70b5f9 !important;
+  --color-signal-neutral-on-dark-active: #70b5f9 !important;
+  --artdeco-reset-base-background-transparent: none !important;
+  /*--color-background-container: #1d2226 !important;*/
+  --color-border-low-emphasis: hsl(0, 0%, 25%) !important;
+  --color-border: hsl(0, 0%, 25%) !important;
+  --color-border-active: hsl(0, 0%, 25%) !important;
+  --color-border-on-dark: hsl(0, 0%, 25%) !important;
+  --color-border-on-dark-active:hsl(0, 0%, 25%) !important;
+  --elevation-lined: hsl(0, 0%, 25%) !important;;
+  --color-border-faint:rgba(29, 34, 38, 0.8) !important;
+  --color-icon: hsl(0, 0%, 50%) !important;
+  --color-text-low-emphasis: #eee !important;
+  --color-text-low-emphasis-shift:#f8f8f8 !important;
+  --color-icon-nav-active: hsla(210, 92%, 71%, 1) !important;
+  --color-icon-nav-on-dark: hsla(208, 13%, 26%, 0.50) !important;
+  --color-icon-nav-on-dark-active: hsla(210, 92%, 71%, 1) !important;
+  --color-icon-nav-selected: #f8f8f8 !important;
+  --color-icon-nav-selected-active: hsla(210, 92%, 71%, 1) !important;
+  --color-icon-nav: hsla(0, 0%, 97%, 0.5) !important; /**/
+  --black-a90: #f8f8f8 !important;
+  --black-a75: #f8f8f8 !important;
+  --black-a60: #f8f8f8 !important;
+  --black-a45: #f898f8 !important;
+  --black-a30: #eee !important;
+  --black-a15: #f8f8f8 !important;
+  --black-a12: #f8f8f8 !important;
+  --black-a08: #2b3138 !important;
+  --black-a04: #f8f8f8 !important; 
+
+  --voyager-color-background-comment: rgb(0,0,0,.1) !important;
+  --voyager-color-background-container-tint-2: rgb(0,0,0,.) !important;
+  --voyager-color-background-input-search: none !important;
+  --voyager-color-background-overlay: rgb(0,0,0,.3) !important;
+  --voyager-color-background-overlay-hover: rgb(0,0,0,.3) !important;
+  /*--color-background-container-tint: none !important;*/
+  --color-background-container-tint: #414b53 !important;
+  --voyager-color-action-selected: rgb(0,0,0,.3) !important;
+  --premium-color-brand: var(--amber-60)!important;
+  --premium-color-action: var(--amber-60)!important;
+  --premium-color-action-hover: var(--amber-70) !important;
+  --premium-color-action-active: var(amber-80) !important;
+  --voyager-color-background-badge-notification: var(--system-red-60) !important;
+  --voyager-color-action: #67a4e0 !important;
+  --voyager-color-action-hover: #6b9cce !important;
+}
+abbr, address, article, aside, audio, b, blockquote, body, canvas, caption, cite, code, dd, del, details, dfn, div, dl, dt, em, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, p, pre, q, samp, section, small, span, strong, summary, table, tbody, td, tfoot, th, thead, time, tr, ul, var, video{
+  background: #f9f9f9 ;
+}
+
+
+/* Removing all of the Premium things - eeek*/
+#global-nav > div > nav > ul > li:nth-child(7) > button, #global-nav > div > nav > ul > li:nth-child(8) > div,#ember22 > div.scaffold-layout.scaffold-layout--breakpoint-xl.scaffold-layout--sidebar-main-aside.scaffold-layout--reflow > div > div > div > div.feed-identity-module.artdeco-card.overflow-hidden.mb2 > a.app-aware-link.link-without-visited-state.feed-identity-module__anchored-widget.feed-identity-module__anchored-widget--premium-upsell.t-12.t-black.t-bold.link-without-hover-state.text-align-left{
+  display: none;
+}
+#reactors-facepile-id{
+  display: none !important;
+}
+#ember40 > div.align-items-center.comments-quick-comments.display-flex.justify-center.ph2{
+ display: none !important;
+}
+#ember209 > div.scaffold-layout.scaffold-layout--breakpoint-xl.scaffold-layout--sidebar-main-aside.scaffold-layout--reflow > div > div > div > div.feed-identity-module.artdeco-card.overflow-hidden.mb2 > a.app-aware-link.link-without-visited-state.feed-identity-module__anchored-widget.feed-identity-module__anchored-widget--premium-upsell.t-12.t-black.t-bold.link-without-hover-state.text-align-left{
+  display: none !important;
+}
+.feed-identity-module__anchored-widget--premium-upsell{
+  display: none !important;
+}
+/* Make messaging Full screen */
+#messaging{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+#messaging > div > div > aside{
+  display: none;
+}
+#messaging > div > div{
+  display: flex;
+}
+article{
+  background: none !important;
+}
+#main > div > section.scaffold-layout__list.msg__list{
+  flex:1.5;
+}
+
+/* Removes "Reccommended sections 
+#ember896 > div.scaffold-layout.scaffold-layout--breakpoint-xl.scaffold-layout--sidebar-main-aside.scaffold-layout--reflow > div > div > aside{
+  display: none !important;
+}
+#ember868 > div.scaffold-layout.scaffold-layout--breakpoint-xl.scaffold-layout--sidebar-main-aside.scaffold-layout--reflow > div > div > aside > div.scaffold-layout__sticky.scaffold-layout__sticky--is-active.scaffold-layout__sticky--lg{
+  display: none !important;
+}
+#ember21 > div.scaffold-layout.scaffold-layout--breakpoint-xl.scaffold-layout--sidebar-main-aside.scaffold-layout--reflow > div > div > aside > div.scaffold-layout__sticky.scaffold-layout__sticky--is-active.scaffold-layout__sticky--lg > div{
+  display: none !important;
+}
+aside{
+  display: none !important;
+}  
+*/
+
+#ember1178{ 
+  display: none !important;
+}
+#feed-news-module{
+  display: none !important;
+}
+#ember896 > div.scaffold-layout.scaffold-layout--breakpoint-xl.scaffold-layout--sidebar-main-aside.scaffold-layout--reflow > div > div > div > div.scaffold-layout__sticky.scaffold-layout__sticky--is-active.scaffold-layout__sticky--md{
+  display: none !important;
+}
+
+/* Unfluff-ing LinkedIn
+
+
+
+
+
+
+
+
