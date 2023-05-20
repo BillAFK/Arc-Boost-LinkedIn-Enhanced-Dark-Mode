@@ -8,8 +8,8 @@
 }
 input{
   background: hsla(208, 13%, 26%, 0.35) !important;
+  /*backdrop-filter: blur(5px) !important;*/
 }
-
 #global-nav-typeahead > input{
   border-radius: var(--corner-radius-medium) !important;
 }
@@ -52,7 +52,9 @@ input{
   padding-left: 24px !important;
   padding-right: 24px !important;
 }
-
+.large-header, h1{
+  font-weight: 600 !important;
+}
 .pv2{ 
   padding-top: 16px !important;
   padding-bottom:24px !important;
@@ -214,7 +216,20 @@ color: #1d2226 !important;
 abbr, address, article, aside, audio, b, blockquote, body, canvas, caption, cite, code, dd, del, details, dfn, div, dl, dt, em, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, p, pre, q, samp, section, small, span, strong, summary, table, tbody, td, tfoot, th, thead, time, tr, ul, var, video{
   background: #f9f9f9 ;
 }
+#main > div > div.scaffold-layout__list > header{
+  backdrop-filter: blur(2px) !important; 
 
+}
+.jobs-search-results-list__text{
+  color: #f8f8f8 !important;
+}
+.jobs-search-create-alert__artdeco-toggle-text span{
+  color: #f8f8f8 !important;
+}
+.jobs-search-results-list__header--blue{
+  background-color: hsla(208, 13%, 26%, 0.50) !important;
+
+}
 
 /* Removing all of the Premium things - eeek*/
 #global-nav > div > nav > ul > li:nth-child(7) > button, #global-nav > div > nav > ul > li:nth-child(8) > div,#ember22 > div.scaffold-layout.scaffold-layout--breakpoint-xl.scaffold-layout--sidebar-main-aside.scaffold-layout--reflow > div > div > div > div.feed-identity-module.artdeco-card.overflow-hidden.mb2 > a.app-aware-link.link-without-visited-state.feed-identity-module__anchored-widget.feed-identity-module__anchored-widget--premium-upsell.t-12.t-black.t-bold.link-without-hover-state.text-align-left{
@@ -274,13 +289,3 @@ aside{
 #ember896 > div.scaffold-layout.scaffold-layout--breakpoint-xl.scaffold-layout--sidebar-main-aside.scaffold-layout--reflow > div > div > div > div.scaffold-layout__sticky.scaffold-layout__sticky--is-active.scaffold-layout__sticky--md{
   display: none !important;
 }
-
-/* Unfluff-ing LinkedIn
-
-
-
-
-
-
-
-
