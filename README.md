@@ -10,7 +10,7 @@ Some things to know:
     • The Messages page has been altered to be a more focused experience
     • The Trending panel on the home screen has been removed
     • and basically ever opportunity for Premiu upselling has been removed. 
-  **IF YOU DONT WANT ANY OF THESE EXTRAS, JUST COMMENT OUT THAT PART OF THE CSS OR JUST DONT INCLUDE THEM IN YOUR FILE**
+  **IF YOU DONT WANT ANY OF THESE EXTRAS, PLEASE COMMENT OUT THAT PART OF THE CSS**
   
 Anything you'd add? any feedback? Reach out!
   
